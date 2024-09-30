@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 'Jesus Acevedo'
-- 👀 I’m interested in Data analytics and Business intelligence analytics
-- 🌱 I’m currently learning BIA at Tripleten bootcamp
+- 👀 I’m interested in Data analytics, Business intelligence analytics and Web development
+- 🌱 I’m currently learning Web Development at Tripleten bootcamp
 - 💞️ I’m looking to collaborate on Data and business analytics projects
 - 📫 How to reach me : jesace19@gmail.com
 - 😄 Pronouns: He/Him
