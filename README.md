@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 'Jesus Acevedo'
-- 👀 I’m interested in Data analytics, Business intelligence analytics and Web development
-- 🌱 I’m currently learning Web Development at Tripleten bootcamp
-- 💞️ I’m looking to collaborate on Data and business analytics projects
+- 👀 I’m interested in data analytics, business intelligence analytics
+- 🌱 I’m a Tripleten graduate student
+- 💞️ I’m looking to collaborate on data and business analytics projects
 - 📫 How to reach me : jesace19@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love videogames and metal music
